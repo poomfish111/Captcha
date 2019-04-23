@@ -30,7 +30,7 @@
                        var f = alpha[Math.floor(Math.random() * alpha.length)];
                        var g = alpha[Math.floor(Math.random() * alpha.length)];
                       }
-                    var res = a  + b   + c  + d  + e+ f  + g;
+                    var res = a  + b   + c  + d  + e + f  + g;
                     document.getElementById("mainCaptcha").value = res
                   
 					  }
