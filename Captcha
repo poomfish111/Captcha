@@ -35,7 +35,7 @@
                   
 					  }
                   
-                  function removeSpaces(string){
+                  function removeSpaces(string) {
                     return string.split(' ').join('');
                   }
              </script>    
