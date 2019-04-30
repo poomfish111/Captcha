@@ -33,7 +33,7 @@
                     var res = a  + b   + c  + d  + e+ f  + g;
                     document.getElementById("mainCaptcha").value = res
                   
-					  }
+			  }
                   
                   function removeSpaces(string){
                     return string.split(' ').join('');
@@ -44,7 +44,7 @@
         <table>
           <tr>
            <td>
-                 Text Captcha<br />
+                 Text Captcha<br>
            </td>
           </tr>
 <div class="catp">
